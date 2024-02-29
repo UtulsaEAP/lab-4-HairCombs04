@@ -1,3 +1,8 @@
+"""
+Name: Bradyn Combs
+Lab Time: 2/22/24 2:00 PM
+"""
+
 def fibonacci(n):
     #write your code here
     global c

@@ -1,3 +1,8 @@
+"""
+Name: Bradyn Combs
+Lab Time: 2/22/24 2:00 PM
+"""
+
 def kilo_to_pounds(kilos):
     # This statement intentionally has an error. 
     return (kilos * 2.204)

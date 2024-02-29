@@ -1,3 +1,8 @@
+"""
+Name: Bradyn Combs
+Lab Time: 2/22/24 2:00 PM
+"""
+
 def driving_cost(miles_per_gallon, dollars_per_gallon, miles_driven):
    #write your code here
     gallons_used = miles_driven / miles_per_gallon
