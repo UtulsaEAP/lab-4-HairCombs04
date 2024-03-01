@@ -1,6 +1,6 @@
 """
 Name: Bradyn Combs
-Lab Time: 2/22/24 2:00 PM
+Lab Time: 2/22/2024 2:00 PM
 """
 
 def kilo_to_pounds(kilos):
